@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style=" font-size: medium; color: #447ff7" align=center>
-  ### 🔹Languages:
+  🔹Languages:
   <p style="padding:10px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
