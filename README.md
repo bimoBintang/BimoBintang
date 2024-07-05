@@ -5,7 +5,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
-      <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java8.png"/>
+      <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/GPfHz0SM85FX/java-coffee-cup-logo--v2"/>
   </p>
   
   ### 🔹Databases:
